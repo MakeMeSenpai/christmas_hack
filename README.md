@@ -1,3 +1,4 @@
+**Christmas Light Music Hack!**
 The goal of this project is to be able to apply past robotic with current coding. This is helpful to
 help expand my knowedge as well as make a really cool decorative program! We will be hacking 
 Christmas lights in this project in order to make it react to noise. But in order to do this, we 
