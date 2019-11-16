@@ -1,4 +1,5 @@
 **Christmas Light Music Hack!**
+
 The goal of this project is to be able to apply past robotic with current coding. This is helpful to
 help expand my knowedge as well as make a really cool decorative program! We will be hacking 
 Christmas lights in this project in order to make it react to noise. But in order to do this, we 
@@ -6,7 +7,7 @@ must ask the question what is noise? https://www.youtube.com/watch?v=i_0DXxNeaQ0
 www.youtube.com/watch?v=0ALKGR0I5MA (watch this video with tinyurl.com/scipy15dsp )
 
 Noise is a vibration in which our coachella viibrates hairs and fluid in a long tube for our brain
-to exame, but that isn't the important part of what U have learn today. I found a recource using
+to exame, but that isn't the important part of what you have learn today. I found a recource using
 numpy in order to take noisy data and make conditionals out of frequencies. Just what we needed!
 https://www.pythonforengineers.com/audio-and-digital-signal-processingdsp-in-python/
 the above is the book, while the bottom is the example code we will be using.
@@ -24,8 +25,7 @@ provides
 TODO:
 skateboard: Use python to understand sound. When sound can is accepted the skateboard is complete. 
 The sound can come from a music file for now, but will later it will be required that the sound 
-come from an external force. 
-and the input is being taken from a microphone.
+come from an external source, and the input is being taken from a microphone.
 
 Bike: The program now uses certaint frequencies to preform certain tasks. The 
 bike is complete when you can make conditionals based off of sound, and can accept input from a    
