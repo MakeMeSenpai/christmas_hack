@@ -23,19 +23,19 @@ link provided
 -Look up more things such as extra wires, and computer chip wiring
 
 **TODO:**
-skateboard: Use python to understand sound. When sound can be accepted the skateboard is 
-complete. The sound can come from a music file for now, but will later it will be required that 
-the sound come from an external source, and the input is being taken from a microphone.
+Skateboard: Use python to understand sound. When sound can be accepted the skateboard is complete. 
+The sound can come from a music file for now, but will later it will be required that the sound 
+comes from an external source, and the input is being taken from a microphone
 
-Bike: The program now uses certaint frequencies to preform certain tasks. The 
-bike is complete when you can make conditionals based off of sound, and can accept input from a
-microphone. All parts needed are bought and ready for soddering.
+Bike: The program now uses certain frequencies to perform certain tasks. The bike is complete when 
+you can make conditionals based off of sound, and can accept input from a microphone All parts 
+needed are bought and ready for soldering.
 
-Car: Program is downloaded onto our robots brain! Lights are connected to audrino and other 
-robotics parts and flash whenever it hears a sound. Conditionals should make it so that it only 
-flashes to certaint frequencies and how loud the sound is. 
+Car: Program is downloaded onto our robots brain! Lights are connected to arduino and other 
+robotic parts, and flashes whenever it hears a sound. Conditionals should make it so that it only 
+flashes to certain frequencies and how loud the sound it. 
 
-Stretch Limo: The lights flash different colors depended on the frequency, colors are brighter 
+Stretch Limo: The lights flash different colors depending on the frequency, colors are brighter 
 when the sound is louder and dimmer when the sound is quiet. The robotics can be easily accessed 
 and should lie in a safe and tiny compartment as for solid and easy transportation. (as well as 
-saftey)
+safety!!)
