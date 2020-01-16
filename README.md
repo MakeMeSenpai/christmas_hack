@@ -1,4 +1,9 @@
-# Christmas Light Music Hack!
+# CHD
+
+this is the old research I did when I was just starting this project and planning to use python for it. But after much 
+research and re-evaluation, I decided to switch langueges. Go to MakeMeSenpai/CHD for the final result.
+
+## Christmas Light Music Hack!
 
 The goal of this project is to be able to apply past robotic with current coding. This is helpful 
 to help expand my knowledge, as well as make a really cool decorative program! We will be hacking 
@@ -13,7 +18,7 @@ https://www.pythonforengineers.com/audio-and-digital-signal-processingdsp-in-pyt
 the above is the book, while the bottom is the example code we will be using.
 https://github.com/shantnu/PyEng/blob/master/audio/get_freq.py
 
-# After lots of research
+## After lots of research
 I looked everywhere for information. And tho I learned a lot from these recourse, it is not enough 
 to learn how to process audio in python. Or how to translate that into hardware for those of us
 who never touched a circute board in our lives. This has been a difficult challenge, however I'm 
